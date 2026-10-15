@@ -1,3 +1,3 @@
 def test_login():
-    assert 1==1
-
+    """Verify that the login test runs successfully."""
+    assert 1 == 1
